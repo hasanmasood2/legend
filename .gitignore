@@ -32,3 +32,4 @@ docs/roadmap.md
 
 # Ignore checked out models
 docs/models
+installers/docker-compose/.env
