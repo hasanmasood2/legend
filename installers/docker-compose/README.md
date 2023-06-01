@@ -52,6 +52,10 @@ export GITLAB_APP_ID=<add your app id>
 export GITLAB_APP_SECRET=<add your app secret>
 ```
 
+These can be set directly in the .env file, as well.
+
+NOTE: If you're receiving an error regarding the project name, make sure to lowercase the project name.
+
 ## Studio 
 
 Start Studio as follows. 
